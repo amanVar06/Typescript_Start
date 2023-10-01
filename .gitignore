@@ -1,2 +1,4 @@
 node_modules
-shopping_cart
+.env
+.env.*
+.next
